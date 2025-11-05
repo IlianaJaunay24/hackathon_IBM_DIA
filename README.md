@@ -2,7 +2,7 @@
 
 This repository serves as a template to help you get started quickly.  
 Follow the project structure, fork the repo, and clone it locally to begin.
-
+Israël-Palestine ou rien
 ---
 
 ## 1. Fork the Repository
@@ -57,4 +57,5 @@ git push origin feature/my-awesome-feature
 ## 5. Have Fun and Good Luck!
 
 Good luck during the IBM Hackathon — build, learn, and most importantly: **have fun!** 🚀
+
 
